@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.mhdsajjad.learninghub",
+      "sha256_cert_fingerprints": ["AE:09:DF:F1:10:D2:70:D7:1D:AD:CD:63:12:2B:0A:D6:36:1F:25:57:F5:10:FE:51:3B:3F:E4:8A:F9:33:F5:0D"]
+    }
+  }
+]
